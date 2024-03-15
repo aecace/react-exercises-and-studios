@@ -1,3 +1,6 @@
+import recipedata from "./recipe.json";
+import styling from "./styling.css";
+
 function AuthorInfo() {
    return;
  }

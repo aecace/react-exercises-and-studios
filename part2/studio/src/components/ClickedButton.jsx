@@ -1,5 +1,12 @@
 function ClickedButton() {
-  return;
+  function handleClick() {
+    alert("You are saving this pin!");
+  }
+  return (
+    <button class="a" id="clickedButton" onClick={handleClick}>
+      Save
+    </button>
+  );
 }
 
 export default ClickedButton;
