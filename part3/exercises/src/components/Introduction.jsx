@@ -1,11 +1,11 @@
 export default function HobbyIntroduction () {
    return(
       <div>
-         <h2>3 Fun Facts About Needlepoint</h2>
+         <h2>3 Fun Facts About Crocheting</h2>
          <ol>
-            <li>Needlepoint uses a specialized canvas as it's base.</li>
-            <li>The most basic stitch is called a tent stitch.</li>
-            <li>Needlepoint uses a lot of different kinds of fibers.</li>
+            <li>Crocheting is great for anyone looking to get into yarn- and needlework.</li>
+            <li>For some reason, some of the best tutorials online are in Portuguese.</li>
+            <li>The hats you can make are warm and fluffy.</li>
          </ol>
       </div>
    );
